@@ -1,5 +1,5 @@
-# HaphazardInputs_Papers
-All the papers related to Haphazard Inputs Field.
+# Haphazard Inputs
+All the papers related to Haphazard Inputs Field. This is also known as varying feature stream in an online learning setting.
 
 ## Survey Paper
 | Paper | Link | Year | Code |
@@ -11,19 +11,28 @@ All the papers related to Haphazard Inputs Field.
 
 | Paper | Model Name (Link) | Year | Code by Original Authors | Code by Other Authors |
 | --- | --- | --- | --- | --- |
-| Robust Sparse Online Learning for Data Streams with Streaming Features | [RSOL](https://epubs.siam.org/doi/abs/10.1137/1.9781611978032.21) | 2024 | Unavailable | Unavailable |    
+| Robust and Adaptive Incremental Learning for Varying Feature Space | [RAIL](https://ieeexplore.ieee.org/abstract/document/10516442) | 2024 | Unavailable | Unavailable |
+| Online Learning in Varying Feature Spaces with Informative Variation | [OVFIV](https://link.springer.com/chapter/10.1007/978-3-031-57808-3_2) | 2024 |  Unavailable | Unavailable |
+| Robust Sparse Online Learning for Data Streams with Streaming Features | [RSOL](https://epubs.siam.org/doi/abs/10.1137/1.9781611978032.21) | 2024 | Unavailable | Unavailable |
 | Online Learning for Data Streams With Incomplete Features and Labels | [OLIFL](https://ieeexplore.ieee.org/abstract/document/10476707) | 2024 | [Code](https://github.com/youdianlong/OLIFL) | Unavailable |
 | Online Feature Selection with Varying Feature Spaces | [OFSVF](https://ieeexplore.ieee.org/abstract/document/10473703) | 2024 | Unavailable | Unavailable | 
 | Data stream classification in dynamic feature space using feature mapping | [DCDF2M](https://link.springer.com/article/10.1007/s11227-024-05889-1) | 2024 | Unavailable | Unavailable |   
 | A Study on Imputation-based Online Learning in Varying Feature Spaces | [OIL](https://ieeexplore.ieee.org/abstract/document/10392330) | 2023 | Unavailable | Unavailable |  
 | Online Learning Under Capricious Feature Data Streams | [OLCF](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2D4GS201/_article/-char/ja/) | 2023 | Unavailable | Unavailable | 
-| When Online Learning Meets ODE: Learning without Forgetting on Variable Feature Space | [DFLS](https://ojs.aaai.org/index.php/AAAI/article/view/26029) | 2023 | Unavailable | Unavailable |   
+| When Online Learning Meets ODE: Learning without Forgetting on Variable Feature Space | [DFLS](https://ojs.aaai.org/index.php/AAAI/article/view/26029) | 2023 | Unavailable | Unavailable |
+| Online Learning From Incomplete and Imbalanced Data Streams | [OLI2DS](https://ieeexplore.ieee.org/document/10058539) | 2023 | [Code](https://github.com/youdianlong/OLI2DS) | Unavailable |
 | Aux-Drop: Handling Haphazard Inputs in Online Learning Using Auxiliary Dropouts | [Aux-Drop](https://openreview.net/pdf?id=R9CgBkeZ6Z) | 2023 | [Code](https://github.com/Rohit102497/Aux-Drop) | [Code](https://github.com/Rohit102497/HaphazardInputsReview) | 
 | Auxiliary Network: Scalable and agile online learning for dynamic system with inconsistently available inputs | [Aux-Net](https://link.springer.com/chapter/10.1007/978-3-031-30105-6_46) | 2023 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) | 
 | Online random feature forests for learning in varying feature spaces | [ORF3V](https://ojs.aaai.org/index.php/AAAI/article/view/25581) | 2023 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) | 
 | Dynamic forest for learning from data streams with varying feature spaces | [DynFo](https://link.springer.com/chapter/10.1007/978-3-031-17834-4_6) | 2022 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) | 
 | Online learning in variable feature spaces with mixed data | [OVFM](https://ieeexplore.ieee.org/abstract/document/9679013) | 2021 | [Code](https://github.com/xiexvying/OVFM) | [Code](https://github.com/Rohit102497/HaphazardInputsReview) |
+| Toward Mining Capricious Data Streams: A Generative Approach | [GLSC](https://ieeexplore.ieee.org/document/9066871) | 2021 | Unavailable | Unavailable | 
 | Online learning from capricious data streams: a generative approach | [OCDS](https://dl.acm.org/doi/abs/10.5555/3367243.3367386) | 2019 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) |
 | Online learning from data streams with varying feature spaces | [OLVF](https://ojs.aaai.org/index.php/AAAI/article/view/4192) | 2019 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) |
 | Temporal data mining in dynamic feature spaces | [FAE](https://ieeexplore.ieee.org/abstract/document/4053168) | 2006 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) |
 | On the utility of incremental feature selection for the classification of textual data streams | [NB3](https://link.springer.com/chapter/10.1007/11573036_32) | 2005 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) |
+
+
+## Datasets
+
+## Metrics
