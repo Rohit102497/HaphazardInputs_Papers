@@ -11,9 +11,13 @@ All the papers related to Haphazard Inputs Field.
 
 | Paper | Model Name (Link) | Year | Code by Original Authors | Code by Other Authors |
 | --- | --- | --- | --- | --- |
+| Robust Sparse Online Learning for Data Streams with Streaming Features | [RSOL](https://epubs.siam.org/doi/abs/10.1137/1.9781611978032.21) | 2024 | Unavailable | Unavailable |    
 | Online Learning for Data Streams With Incomplete Features and Labels | [OLIFL](https://ieeexplore.ieee.org/abstract/document/10476707) | 2024 | [Code](https://github.com/youdianlong/OLIFL) | Unavailable |
+| Online Feature Selection with Varying Feature Spaces | [OFSVF](https://ieeexplore.ieee.org/abstract/document/10473703) | 2024 | Unavailable | Unavailable | 
+| Data stream classification in dynamic feature space using feature mapping | [DCDF2M](https://link.springer.com/article/10.1007/s11227-024-05889-1) | 2024 | Unavailable | Unavailable |   
 | A Study on Imputation-based Online Learning in Varying Feature Spaces | [OIL](https://ieeexplore.ieee.org/abstract/document/10392330) | 2023 | Unavailable | Unavailable |  
 | Online Learning Under Capricious Feature Data Streams | [OLCF](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2D4GS201/_article/-char/ja/) | 2023 | Unavailable | Unavailable | 
+| When Online Learning Meets ODE: Learning without Forgetting on Variable Feature Space | [DFLS](https://ojs.aaai.org/index.php/AAAI/article/view/26029) | 2023 | Unavailable | Unavailable |   
 | Aux-Drop: Handling Haphazard Inputs in Online Learning Using Auxiliary Dropouts | [Aux-Drop](https://openreview.net/pdf?id=R9CgBkeZ6Z) | 2023 | [Code](https://github.com/Rohit102497/Aux-Drop) | [Code](https://github.com/Rohit102497/HaphazardInputsReview) | 
 | Auxiliary Network: Scalable and agile online learning for dynamic system with inconsistently available inputs | [Aux-Net](https://link.springer.com/chapter/10.1007/978-3-031-30105-6_46) | 2023 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) | 
 | Online random feature forests for learning in varying feature spaces | [ORF3V](https://ojs.aaai.org/index.php/AAAI/article/view/25581) | 2023 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) | 
