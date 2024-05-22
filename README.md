@@ -11,6 +11,7 @@ All the papers related to Haphazard Inputs Field.
 
 | Paper | Model Name (Link) | Year | Code by Original Authors | Code by Other Authors |
 | --- | --- | --- | --- | --- |
+| Online Learning for Data Streams With Incomplete Features and Labels | [OLIFL](https://ieeexplore.ieee.org/abstract/document/10476707) | 2024 | [Code](https://github.com/youdianlong/OLIFL) | Unavailable |
 | Aux-Drop: Handling Haphazard Inputs in Online Learning Using Auxiliary Dropouts | [Aux-Drop](https://openreview.net/pdf?id=R9CgBkeZ6Z) | 2023 | [Code](https://github.com/Rohit102497/Aux-Drop) | [Code](https://github.com/Rohit102497/HaphazardInputsReview) | 
 | Auxiliary Network: Scalable and agile online learning for dynamic system with inconsistently available inputs | [Aux-Net](https://link.springer.com/chapter/10.1007/978-3-031-30105-6_46) | 2023 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) | 
 | Online random feature forests for learning in varying feature spaces | [ORF3V](https://ojs.aaai.org/index.php/AAAI/article/view/25581) | 2023 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) | 
@@ -20,4 +21,3 @@ All the papers related to Haphazard Inputs Field.
 | Online learning from data streams with varying feature spaces | [OLVF](https://ojs.aaai.org/index.php/AAAI/article/view/4192) | 2019 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) |
 | Temporal data mining in dynamic feature spaces | [FAE](https://ieeexplore.ieee.org/abstract/document/4053168) | 2006 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) |
 | On the utility of incremental feature selection for the classification of textual data streams | [NB3](https://link.springer.com/chapter/10.1007/11573036_32) | 2005 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) |
-
