@@ -27,6 +27,7 @@ All the papers related to Haphazard Inputs Field. This is also known as varying 
 | Online Semi-supervised Learning with Mix-Typed Streaming Features | [OSLMF](https://ojs.aaai.org/index.php/AAAI/article/view/25596) | June 2023 | [Code](https://github.com/wudi1989/OSLMF) | Unavailable |
 | Dynamic forest for learning from data streams with varying feature spaces | [DynFo](https://link.springer.com/chapter/10.1007/978-3-031-17834-4_6) | 2022 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) | 
 | Online learning in variable feature spaces with mixed data | [OVFM](https://ieeexplore.ieee.org/abstract/document/9679013) | 2021 | [Code](https://github.com/xiexvying/OVFM) | [Code](https://github.com/Rohit102497/HaphazardInputsReview) |
+| Online Learning in Variable Feature Spaces under Incomplete Supervision | [AGDES](https://ojs.aaai.org/index.php/AAAI/article/view/16532) | May 2021 | Unavailable | Unavailable | 
 | Toward Mining Capricious Data Streams: A Generative Approach | [GLSC](https://ieeexplore.ieee.org/document/9066871) | 2021 | Unavailable | Unavailable | 
 | Online learning from capricious data streams: a generative approach | [OCDS](https://dl.acm.org/doi/abs/10.5555/3367243.3367386) | 2019 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) |
 | Online learning from data streams with varying feature spaces | [OLVF](https://ojs.aaai.org/index.php/AAAI/article/view/4192) | 2019 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) |
