@@ -11,6 +11,7 @@ All the papers related to Haphazard Inputs Field. This is also known as varying 
 
 | Paper | Model Name (Link) | Year | Code by Original Authors | Code by Other Authors |
 | --- | --- | --- | --- | --- |
+| Online learning for data streams with bi-dynamic distributions | [OLBD](https://www.sciencedirect.com/science/article/abs/pii/S0020025524007102) | May 2024 | Unavailable | Unavailable |
 | Robust and Adaptive Incremental Learning for Varying Feature Space | [RAIL](https://ieeexplore.ieee.org/abstract/document/10516442) | May 2024 | Unavailable | Unavailable |
 | Online Learning in Varying Feature Spaces with Informative Variation | [OVFIV](https://link.springer.com/chapter/10.1007/978-3-031-57808-3_2) | April 2024 |  Unavailable | Unavailable |
 | Robust Sparse Online Learning for Data Streams with Streaming Features | [RSOL](https://epubs.siam.org/doi/abs/10.1137/1.9781611978032.21) | April 2024 | Unavailable | Unavailable |
