@@ -1,16 +1,18 @@
 # Haphazard Inputs
-All the papers related to Haphazard Inputs Field. This is also known as varying feature stream in an online learning setting.
+All the papers related to the Haphazard Inputs Field. This is also known as varying feature streams in an online learning setting.
 
 ## Survey Paper
 | Paper | Link | Year | Code |
 | --- | --- | --- | --- |
 | Online Learning under Haphazard Input Conditions: A Comprehensive Review and Analysis | [Paper](https://arxiv.org/pdf/2404.04903) | 2024 | [Code](https://github.com/Rohit102497/HaphazardInputsReview)  
-| Towards utilitarian online learning-A review of online algorithms in open feature space | [Paper](https://www.ijcai.org/proceedings/2023/0745.pdf) | 2023 | Unavailable | 
+| Towards utilitarian online learning - A review of online algorithms in open feature space | [Paper](https://www.ijcai.org/proceedings/2023/0745.pdf) | 2023 | Unavailable | 
 
 ## Methods
 
 | Paper | Model Name (Link) | Year | Code by Original Authors | Code by Other Authors |
 | --- | --- | --- | --- | --- |
+| Online learning from incomplete data streams with partial labels for multi-classification | [OLIDSPLM](https://www.sciencedirect.com/science/article/pii/S0020025524013252) | August 2024 | [Code not working](https://github.com/youdianlong/OLIDSPLM
+) | Unavailable |
 | Online learning from capricious data streams via shared and new feature spaces | [OLCDS](https://link.springer.com/article/10.1007/s10489-024-05681-x) | July 2024 | Unavailable | Unavailable |
 | Online learning for data streams with bi-dynamic distributions | [OLBD](https://www.sciencedirect.com/science/article/abs/pii/S0020025524007102) | May 2024 | Unavailable | Unavailable |
 | Robust and Adaptive Incremental Learning for Varying Feature Space | [RAIL](https://ieeexplore.ieee.org/abstract/document/10516442) | May 2024 | Unavailable | Unavailable |
