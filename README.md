@@ -13,6 +13,7 @@ All the papers related to the Haphazard Inputs Field. This is also known as vary
 | --- | --- | --- | --- | --- |
 | Utilitarian Online Learning from Open-World Soft Sensing | [OWSS](https://ieeexplore.ieee.org/abstract/document/10884473) | February 20225 | [Code](https://github.com/X1aoLian/OWSS) | Unavailable |
 | Hedging Is Not All You Need: A Simple Baseline for Online Learning Under Haphazard Inputs | [HapNet](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10889697) | January 2025 | [Code](https://github.com/mb16biswas/Online-Learning-Transformers/) | Unavailable |
+| ℓ1,2-Norm and CUR Decomposition based Sparse Online Active Learning for Data Streams with Streaming Features | [OASF](https://ieeexplore.ieee.org/abstract/document/10825278) | January 20225 | Unavailable | Unavailable |
 | Online learning from incomplete data streams with partial labels for multi-classification | [OLIDSPLM](https://www.sciencedirect.com/science/article/pii/S0020025524013252) | August 2024 | [Code not working](https://github.com/youdianlong/OLIDSPLM) | Unavailable |
 | Online learning from capricious data streams via shared and new feature spaces | [OLCDS](https://link.springer.com/article/10.1007/s10489-024-05681-x) | July 2024 | Unavailable | Unavailable |
 | Online learning for data streams with bi-dynamic distributions | [OLBD](https://www.sciencedirect.com/science/article/abs/pii/S0020025524007102) | May 2024 | Unavailable | Unavailable |
