@@ -26,7 +26,6 @@ All the papers related to the Haphazard Inputs Field. This is also known as vary
 | A Study on Imputation-based Online Learning in Varying Feature Spaces | [OIL](https://ieeexplore.ieee.org/abstract/document/10392330) | October 2023 | Unavailable | Unavailable |
 | Online Learning From Incomplete and Imbalanced Data Streams | [OLI2DS](https://ieeexplore.ieee.org/document/10058539) | October 2023 | [Code](https://github.com/youdianlong/OLI2DS) | Unavailable |
 | Online Learning Under Capricious Feature Data Streams | [OLCF](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2D4GS201/_article/-char/ja/) | June 2023 | Unavailable | Unavailable | 
-| When Online Learning Meets ODE: Learning without Forgetting on Variable Feature Space | [DFLS](https://ojs.aaai.org/index.php/AAAI/article/view/26029) | June 2023 | Unavailable | Unavailable |
 | Online random feature forests for learning in varying feature spaces | [ORF3V](https://ojs.aaai.org/index.php/AAAI/article/view/25581) | June 2023 | Unavailable | [Code](https://github.com/Rohit102497/HaphazardInputsReview) | 
 | Online Semi-supervised Learning with Mix-Typed Streaming Features | [OSLMF](https://ojs.aaai.org/index.php/AAAI/article/view/25596) | June 2023 | [Code](https://github.com/wudi1989/OSLMF) | Unavailable |
 | Aux-Drop: Handling Haphazard Inputs in Online Learning Using Auxiliary Dropouts | [Aux-Drop](https://openreview.net/pdf?id=R9CgBkeZ6Z) | May 2023 | [Code](https://github.com/Rohit102497/Aux-Drop) | [Code](https://github.com/Rohit102497/HaphazardInputsReview) | 
